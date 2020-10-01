@@ -168,7 +168,10 @@ footer .svg-inline--fa{
   color: white;
 }
 /*============= SOCKET =============*/
-
+.socket{
+  background-color: #222222;
+  border-top: .2rem solid #4981b3;
+}
 /*============= MEDIA QUERIES =============*/
 
 /* Devices under 1199px (xl) */
